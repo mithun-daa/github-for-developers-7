@@ -2,3 +2,4 @@
 - [ ] Dallas, TX
 - [ ] Photography
 - [ ] Lilywhite
+- [ ] More info
